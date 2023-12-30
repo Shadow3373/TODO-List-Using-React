@@ -8,7 +8,4 @@ const Header = ({ title }) => {
   );
 };
 
-Header.defaultProps = {
-  title: "Todo List",
-};
 export default Header;
