@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import { FaPlus } from "react-icons/fa";
 
 const AddItem = () => {
@@ -19,4 +19,4 @@ const AddItem = () => {
   );
 };
 
-export default Additem;
+export default AddItem;
